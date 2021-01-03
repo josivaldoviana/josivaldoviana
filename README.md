@@ -31,6 +31,11 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="Josivaldo's github stats" src="https://github-readme-stats.vercel.app/api?username=josivaldoviana&show_icons=true&hide_border=true">
+
+
 [twitter]: https://twitter.com/josivjunior
 [instagram]: https://instagram.com/josivjunio
 [linkedin]: https://linkedin.com/in/josivaldoviana
