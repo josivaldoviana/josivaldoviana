@@ -1,6 +1,6 @@
 ### Hey there, I'm Josivaldo 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/josivjunior?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/followjosivaldo?ref_src=twsrc%5Etfw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/josivjunior?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/josivjunio?ref_src=twsrc%5Etfw)
 
 ## I'm 19, Brazilian and Developer!
 
