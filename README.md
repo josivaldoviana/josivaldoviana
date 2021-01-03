@@ -44,10 +44,10 @@
 <table align='center'>
   <row>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=josivaldoviana&theme=vue&layout=compact'>
+      <img height='172' src="https://github-readme-stats.vercel.app/api/top-langs/?username=josivaldoviana&theme=vue&layout=compact">
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=josivaldoviana&show_icons=true&theme=vue'>
+      <img height='172' src="https://github-readme-stats.vercel.app/api?username=josivaldoviana&show_icons=true&hide_border=true">
     </td>
   </row>
 </table>
