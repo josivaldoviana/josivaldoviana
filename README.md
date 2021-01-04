@@ -38,7 +38,7 @@
 <table align='center'>
   <row>
     <td>
-      <img height='172' src="https://github-readme-stats.vercel.app/api/top-langs/?username=josivaldoviana&theme=vue&layout=compact&hide_border=true">
+      <img height='172' src="https://github-readme-stats.vercel.app/api/top-langs/?username=josivaldoviana&theme=default&layout=compact&hide_border=true">
     </td>
     <td>
       <img height='172' src="https://github-readme-stats.vercel.app/api?username=josivaldoviana&show_icons=true&hide_border=true">
